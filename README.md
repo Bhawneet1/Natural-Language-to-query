@@ -23,7 +23,7 @@ This repository provides an integration where an n8n agent collects emails from 
 
 _Add an image below by placing your image file in the repository and updating the path:_
 
-![Project Screenshot](path/to/your/image.png)
+![Project Screenshot](Screenshot 2025-07-27 113334.png)
 
 ## License
 
